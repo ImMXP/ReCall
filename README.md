@@ -37,7 +37,7 @@
 
 ## 📥 Download
 
-Get the latest installer from the [**Releases**](../../releases/latest) page and run `ReCall-Setup-1.0.0.exe`.
+Get the latest installer from the [**Releases**](../../releases/latest) page and run `ReCall-Setup.exe`.
 
 > [!NOTE]
 > The installer isn't code-signed yet. If Windows shows *"Windows protected your PC"*, click **More info → Run anyway**.
