@@ -30,9 +30,8 @@
 - **Forgetting curve:** see how much you still remember of each subject, and which one to review first.
 - **AI-made quizzes:** copy a ready prompt, send it with your lecture to any AI, then drag the JSON file it gives you into a subject.
 - **Flashcards and multiple choice:** two quiz modes, plus a "review my mistakes" round.
-- **Neural map of subjects:** unlimited nested sub-topics, connected with animated memory threads.
 - **Your layout:** long-press to move subjects anywhere, and pick a background (code, aurora, dots, grid, or your own image).
-- **Dark and light themes** with a full Arabic (RTL) interface.
+- **Dark and light themes** with a supported Arabic (RTL) and English (LTR) interface.
 - **Private by default:** everything stays on your device, with no account and no server.
 
 ## 📥 Download
