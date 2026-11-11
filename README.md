@@ -18,7 +18,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="recall-logo-animated.gif">
-  <img src="recall-logo-animated.gif" alt="ReCall Logo" width="512">
+  <img src="recall-logo-animated.gif" alt="ReCall Logo" width="256">
 </picture>
 
 </div>
