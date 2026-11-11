@@ -17,8 +17,8 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="tour-images/light-1.png">
-  <img src="tour-images/dark-1.png" alt="ReCall screenshot" width="720">
+  <source media="(prefers-color-scheme: dark)" srcset="recall-logo-animated.gif">
+  <img src="recall-logo-animated.gif" alt="ReCall Logo" width="512">
 </picture>
 
 </div>
