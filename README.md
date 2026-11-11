@@ -68,6 +68,6 @@ Released under the [MIT License](LICENSE).
 <div align="center">
 <br>
 
-Made with ❤️ for students who'd rather remember than re-read.
+Made with ❤️ for anyone who'd rather remember than re-read.
 
 </div>
