@@ -4,7 +4,7 @@
 
 **A Windows app for studying smarter with spaced repetition and the forgetting curve.**
 <br>
-مذاكرة ذكية بالتباعد الزمني ومنحنى النسيان
+مراجعات ذكية بالتباعد الزمني
 
 ![Version](https://img.shields.io/badge/version-1.0.0-6366f1?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
