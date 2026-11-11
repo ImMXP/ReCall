@@ -42,15 +42,6 @@ Get the latest installer from the [**Releases**](../../releases/latest) page and
 > [!NOTE]
 > The installer isn't code-signed yet. If Windows shows *"Windows protected your PC"*, click **More info → Run anyway**.
 
-## 🛠️ Run from source
-
-```bash
-cd desktop
-npm install
-npm start          # run the app
-npm run build      # build the Windows installer into desktop/dist
-```
-
 ## 💾 Where is my data?
 
 Everything is saved in a local SQLite database on your PC:
